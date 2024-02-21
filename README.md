@@ -1,3 +1,3 @@
 # Full-Stack Template React
 
-A minimal full-stack template with React + Tailwindcss & Express + Reflet
+A minimal full-stack template with Nextjs + Tailwindcss & Express + Reflet
